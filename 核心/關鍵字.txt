@@ -1,0 +1,3 @@
+環境品質指標 environmental quality index
+資料融合 data assimilation
+非監督式機器學習 unsupervised machine learning
